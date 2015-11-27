@@ -4,7 +4,7 @@ A custom deployer for AXIS2
 
 ### What is this repository for? ###
 
-make the service that's running in WSO2(Axis2) could written in clojure.
+make the service that's running in Axis2 could written in clojure.
 
 ### How to use it? ###
 
