@@ -19,7 +19,9 @@ and setting conf/axis2.xml, by adding  the following line:
   <deployer extension=".aar" directory="aar" class="com.gubnoi.Axis2Extender.ClojureDeployer"/>
 ```
 
-that will make the filename with .aar extention , and in the axis2's repository directory's sub folder "aar", would be loaded as a service.
+that will make the file name with .aar extention , and in the axis2's repository directory's sub folder "aar", would be loaded as a service.
+
+should restart the server to make it effort
 
 ### Contribution guidelines ###
 
