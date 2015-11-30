@@ -1,0 +1,9 @@
+<component xmlns="http://products.wso2.org/carbon">
+    <deployers>
+        <deployer>
+            <directory>userstore</directory>
+            <extension>jar</extension>
+            <class>com.gubnoi.Axis2Extender.AbstractDeployer</class>
+        </deployer>
+    </deployers>
+</component>
